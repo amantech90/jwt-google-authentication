@@ -1,0 +1,20 @@
+{
+  "name": "jwt-google-authentication",
+  "version": "1.0.0",
+  "description": "A brief tutorial for implementing the auth in node js ",
+  "main": "app.js",
+  "repository": "https://github.com/amantech90/jwt-google-authentication.git",
+  "author": "Singh Kr Aman",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
